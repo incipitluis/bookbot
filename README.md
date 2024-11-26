@@ -1,1 +1,1 @@
-BookBot is my first project!
+BookBot is my first boot.dev project! It's a simple program that reads a book and reports the number of words and the number of times each character appears in the book.
